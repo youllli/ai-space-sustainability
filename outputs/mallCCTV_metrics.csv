@@ -1,0 +1,2 @@
+﻿Last Observed Time (seconds),Last Observed Frame,Number of Tracking IDs,Average Dwell Time (seconds),PR25 Dwell Time (seconds),PR75 Dwell Time (seconds),Configured Maximum Capacity,Average Congestion Rate (%),Maximum Congestion Rate (%),Congestion Assessment,Configured Number of Seats,Number of Unique Tracking IDs,Space Turnover Rate
+31.83,956,576,0.97,0.23,1.2,30,49.17,80.0,High-load alert,20,576,28.8
